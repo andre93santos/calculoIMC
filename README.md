@@ -1,5 +1,5 @@
 # Calculadora de IMC
-Calculadora de IMC foi o primeiro de muitos aplicativos que irei criar nessa jornada incrivel de densenvolvedor android, algo muito importante no inicio dos meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+A calculadora de IMC é o primeiro de muitos aplicativos que irei criar nessa jornada incrivel de densenvolvedor android, algo muito importante no inicio dos meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
 
 
 
